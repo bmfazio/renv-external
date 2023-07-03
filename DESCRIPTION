@@ -1,4 +1,5 @@
 Imports:
+  beepr,
   devtools,
   httpgd,
   jsonlite,
