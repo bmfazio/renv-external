@@ -5,4 +5,5 @@ Imports:
   jsonlite,
   languageserver,
   microbenchmark,
+  tarmander,
   vscDebugger
