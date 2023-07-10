@@ -6,4 +6,5 @@ Imports:
   languageserver,
   microbenchmark,
   tarmander,
+  visNetwork,
   vscDebugger

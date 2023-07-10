@@ -1571,6 +1571,24 @@
       ],
       "Hash": "d0ef2856b83dc33ea6e255caf6229ee2"
     },
+    "visNetwork": {
+      "Package": "visNetwork",
+      "Version": "2.1.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "grDevices",
+        "htmltools",
+        "htmlwidgets",
+        "jsonlite",
+        "magrittr",
+        "methods",
+        "stats",
+        "utils"
+      ],
+      "Hash": "3e48b097e8d9a91ecced2ed4817a678d"
+    },
     "vscDebugger": {
       "Package": "vscDebugger",
       "Version": "0.5.2",
