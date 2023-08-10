@@ -6,6 +6,7 @@ Imports:
   jsonlite,
   languageserver,
   microbenchmark,
+  reprex,
   tarmander,
   visNetwork,
   vscDebugger
