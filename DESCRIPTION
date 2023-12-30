@@ -1,11 +1,11 @@
 Imports:
   beepr,
+  bench,
   devtools,
   here,
   httpgd,
   jsonlite,
   languageserver,
-  microbenchmark,
   reprex,
   tarmander,
   visNetwork,
